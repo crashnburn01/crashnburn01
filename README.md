@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm CrashnBurn01 (an Pseudonym)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things;Building+amazing+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+CrashnBurn01;Full+Stack+Developer;Always+learning+new+things;Building+amazing+projects" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -67,3 +67,24 @@ const developer = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crashnburn01&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-alif-fachrisyah-31277a371/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andlfrsyh)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/503337072128688129)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.alifachrisyah@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+coding!+%F0%9F%9A%80" alt="Footer" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
