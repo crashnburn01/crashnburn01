@@ -10,7 +10,9 @@
 </p>
 
 ---
-"I'm Alif (CrashnBurn), a Computer Science student specializing in programming. Currently, I'm focusing on being a Backend Developer while expanding my knowledge in web development, data analysis, and standalone applications."
+<p align="center">
+  "I'm Alif (CrashnBurn), a Computer Science student specializing in programming. Currently, I'm focusing on being a Backend Developer while expanding my knowledge in web development, data analysis, and standalone applications."
+</p>
 
 ## 🚀 About Me
 
