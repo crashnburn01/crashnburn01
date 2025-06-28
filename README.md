@@ -55,3 +55,14 @@ const developer = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crashnburn01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crashnburn01&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crashnburn01&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
