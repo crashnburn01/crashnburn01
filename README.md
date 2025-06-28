@@ -82,6 +82,12 @@ const developer = {
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/crashnburn01/crashnburn01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 <div align="center">
