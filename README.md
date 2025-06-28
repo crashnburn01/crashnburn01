@@ -59,10 +59,11 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crashnburn01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crashnburn01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crashnburn01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crashnburn01&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
