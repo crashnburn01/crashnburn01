@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/github/followers/crashnburn01?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+---
+"I'm Alif (CrashnBurn), a Computer Science student specializing in programming. Currently, I'm focusing on being a Backend Developer while expanding my knowledge in web development, data analysis, and standalone applications."
+
 ## 🚀 About Me
 
 ```javascript
