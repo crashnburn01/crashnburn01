@@ -61,12 +61,6 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crashnburn01&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
